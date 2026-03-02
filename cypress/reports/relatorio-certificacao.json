@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-02T00:18:35.812Z",
+  "timestamp": "2026-03-02T17:20:33.710Z",
   "totalProblemas": 25,
   "distribuicao": {
     "alta": 1,
-    "media": 22,
-    "baixa": 2
+    "media": 23,
+    "baixa": 1
   },
   "problemas": [
     {
       "item": "Erro ortográfico 'Salba mais'",
       "tipo": "Correção",
       "classificacao": "Desejabilidade",
-      "prioridade": "Baixa",
+      "prioridade": "Média",
       "descricao": "Texto \"Salba mais\" deve ser corrigido para \"Saiba mais\"",
       "localizacao": "Seção 'Outros Cursos'",
       "pagina": "Certificação"

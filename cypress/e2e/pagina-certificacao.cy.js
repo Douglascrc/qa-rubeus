@@ -30,7 +30,7 @@ describe("Análise de qualidade - página de certificação", () => {
           "Erro ortográfico 'Salba mais'",
           "Correção",
           "Desejabilidade",
-          "Baixa",
+          "Média",
           'Texto "Salba mais" deve ser corrigido para "Saiba mais"',
           "Seção 'Outros Cursos'",
         );
