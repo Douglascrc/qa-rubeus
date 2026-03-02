@@ -1,0 +1,94 @@
+{
+  "timestamp": "2026-03-02T18:14:10.660Z",
+  "pagina": "Site",
+  "url": "https://qualidade.apprbs.com.br/site",
+  "totalProblemas": 9,
+  "distribuicao": {
+    "alta": 0,
+    "media": 3,
+    "baixa": 6
+  },
+  "problemas": [
+    {
+      "item": "Sublinhado inclui caractere de espaço",
+      "tipo": "Correção",
+      "classificacao": "Desejabilidade",
+      "prioridade": "Baixa",
+      "descricao": "O sublinhado na palavra \"melhor\" está incluindo o caractere de espaço, prejudicando a aparência visual",
+      "localizacao": "Seção 'Conheça Nossos Diferenciais'",
+      "pagina": "Site"
+    },
+    {
+      "item": "Erro de alinhamento no card 'Laboratórios'",
+      "tipo": "Correção",
+      "classificacao": "Desejabilidade",
+      "prioridade": "Baixa",
+      "descricao": "O card 'Laboratórios e equipamentos de ponta' possui alinhamento diferente dos demais cards da seção 'Conheça Nossos Diferenciais'",
+      "localizacao": "Seção 'Conheça Nossos Diferenciais' - Card Laboratórios",
+      "pagina": "Site"
+    },
+    {
+      "item": "Elemento com centralização inconsistente",
+      "tipo": "Melhoria",
+      "classificacao": "Desejabilidade",
+      "prioridade": "Baixa",
+      "descricao": "Elemento possui alinhamento central mas margens assimétricas",
+      "localizacao": "iti__arrow",
+      "pagina": "Site"
+    },
+    {
+      "item": "Imagens com proporções incorretas",
+      "tipo": "Correção",
+      "classificacao": "Desejabilidade",
+      "prioridade": "Baixa",
+      "descricao": "1 imagem(ns) encontrada(s) com proporções distorcidas",
+      "localizacao": "Imagens da página",
+      "pagina": "Site"
+    },
+    {
+      "item": "Imagens com altura excessiva",
+      "tipo": "Correção",
+      "classificacao": "Desejabilidade",
+      "prioridade": "Baixa",
+      "descricao": "2 imagem(ns) com altura desproporcional",
+      "localizacao": "Imagens da página",
+      "pagina": "Site"
+    },
+    {
+      "item": "Página sem título H1",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Página não possui tag H1 principal, prejudicando SEO e acessibilidade",
+      "localizacao": "Estrutura da página",
+      "pagina": "Site"
+    },
+    {
+      "item": "Falta de acessibilidade (Atributo ALT em imagens)",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "33 imagem(ns) não possuem atributo ALT descritivo para leitores de tela, dificultando acessibilidade e prejudicando SEO",
+      "localizacao": "Imagens da página",
+      "pagina": "Site"
+    },
+    {
+      "item": "Estrutura HTML pouco semântica",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Apenas 0 elementos semânticos encontrados. Recomendado uso de tags como header, nav, main, section",
+      "localizacao": "Estrutura HTML da página",
+      "pagina": "Site"
+    },
+    {
+      "item": "Imagens não otimizadas para web",
+      "tipo": "Melhoria",
+      "classificacao": "Desejabilidade",
+      "prioridade": "Baixa",
+      "descricao": "7 imagem(ns) com resolução muito maior que a exibida, impactando performance",
+      "localizacao": "Imagens da página",
+      "pagina": "Site"
+    }
+  ]
+}

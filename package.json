@@ -6,9 +6,8 @@
     "test": "cypress run",
     "cypress:run": "cypress run",
     "cypress:open": "cypress open",
-    "test:quality": "cypress run --spec 'tests/E2E/certificacao-page-quality.cy.js'",
-    "test:form": "cypress run --spec 'tests/E2E/formulario-inscricao.cy.js'",
-    "test:all": "cypress run --spec 'tests/E2E/**/*.cy.js'"
+    "test:certificacao": "cypress run --spec 'cypress/e2e/pagina-certificacao.cy.js'",
+    "test:site": "cypress run --spec 'cypress/e2e/testes-exploratorios-site.cy.js'"
   },
   "keywords": [],
   "author": "",
