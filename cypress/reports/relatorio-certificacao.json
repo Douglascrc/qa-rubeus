@@ -1,0 +1,236 @@
+{
+  "timestamp": "2026-03-02T00:18:35.812Z",
+  "totalProblemas": 25,
+  "distribuicao": {
+    "alta": 1,
+    "media": 22,
+    "baixa": 2
+  },
+  "problemas": [
+    {
+      "item": "Erro ortográfico 'Salba mais'",
+      "tipo": "Correção",
+      "classificacao": "Desejabilidade",
+      "prioridade": "Baixa",
+      "descricao": "Texto \"Salba mais\" deve ser corrigido para \"Saiba mais\"",
+      "localizacao": "Seção 'Outros Cursos'",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Link sem destino válido",
+      "tipo": "Correção",
+      "classificacao": "Utilidade",
+      "prioridade": "Média",
+      "descricao": "Link \"Saiba mais\" não possui href funcional",
+      "localizacao": "Link \"Saiba mais\"",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Link sem destino válido",
+      "tipo": "Correção",
+      "classificacao": "Utilidade",
+      "prioridade": "Média",
+      "descricao": "Link \"Saiba\" não possui href funcional",
+      "localizacao": "Link \"Saiba\"",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Link sem destino válido",
+      "tipo": "Correção",
+      "classificacao": "Utilidade",
+      "prioridade": "Média",
+      "descricao": "Link \"Saiba mais\" não possui href funcional",
+      "localizacao": "Link \"Saiba mais\"",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Link de conversão redirecionando para domínio externo",
+      "tipo": "Correção",
+      "classificacao": "Utilidade",
+      "prioridade": "Alta",
+      "descricao": "Link \"Quero me certificar\" está redirecionando para https://google.com.br/ ao invés de página interna",
+      "localizacao": "Link \"Quero me certificar\"",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: ",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/QoS-2021-01-29-13-32-11.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/1RW-2021-01-29-13-51-50.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/0bn-2021-01-29-14-16-12.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/xRF-2021-01-29-15-37-56.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/xRF-2021-01-29-15-37-56.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/xRF-2021-01-29-15-37-56.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/xRF-2021-01-29-15-37-56.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/xRF-2021-01-29-15-37-56.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/xRF-2021-01-29-15-37-56.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/iLC-2021-02-01-12-08-19.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/iLC-2021-02-01-12-08-19.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/iLC-2021-02-01-12-08-19.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/rLa-2021-02-01-12-19-01.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/nX6-2021-02-01-12-39-21.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/7zq-2021-02-01-12-39-08.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/z4R-2021-02-01-12-38-59.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Imagem sem descrição ALT adequada",
+      "tipo": "Melhoria",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Imagem não possui atributo ALT descritivo para leitores de tela",
+      "localizacao": "Imagem: https://crmdemonstracao.rubeus.com.br/file/demonstracao/CanalPersonalizado/139/3pf-2021-02-01-12-20-35.png",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Página sem tag H1 principal",
+      "tipo": "Correção",
+      "classificacao": "Usabilidade",
+      "prioridade": "Média",
+      "descricao": "Página não possui tag H1 para SEO e estrutura adequada",
+      "localizacao": "Estrutura da página",
+      "pagina": "Certificação"
+    },
+    {
+      "item": "Estrutura HTML pouco semântica",
+      "tipo": "Melhoria",
+      "classificacao": "Desejabilidade",
+      "prioridade": "Baixa",
+      "descricao": "Apenas 0 elementos semânticos encontrados. Recomendado usar mais tags como main, header, nav, section",
+      "localizacao": "Estrutura HTML",
+      "pagina": "Certificação"
+    }
+  ]
+}
