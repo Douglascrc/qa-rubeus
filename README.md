@@ -185,6 +185,12 @@ Classificação: Desejabilidade
 Prioridade: Baixa
 Descrição: Os botões 'INSCREVA-SE AGORA' e o botão 'CONCLUIR' do formulário estão mal posicionados, no primeiro caso muito próximo do texto e no segundo caso, próximo ao campo de telefone do form.
 
+Item 12 - Botão 'SAIBA MAIS' ou 'INSCREVA-SE'
+Tipo: Nova funcionalidade
+Classificação: Desejabilidade
+Prioridade: Baixa
+Descrição: Tornar o 'INSCREVA-SE' e 'SAIBA MAIS' das imagens no inicio da página para que o usuário realmente possa se inscrever ou saber mais
+
 ### como executar testes automátizados com o cypress
 
 ```bash
